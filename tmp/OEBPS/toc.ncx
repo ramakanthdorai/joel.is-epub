@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="buffer123"/>
+        <meta name="dtb:depth" content="2"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Sample .epub eBook</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-0" playOrder="0">
+            <navLabel>
+                <text>Cover</text>
+            </navLabel>
+            <content src="Text/cover.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Title Page</text>
+            </navLabel>
+            <content src="Text/title_page.xhtml"/>
+        </navPoint>
+      
+       <navPoint id="1-0.xml" playOrder="1">
+                <navLabel>
+                    <text>What online gaming taught me about startups</text>
+                </navLabel>
+                <content src="Text/1-0.xml"/>
+            </navPoint><navPoint id="1-1.xml" playOrder="2">
+                <navLabel>
+                    <text>Work harder on yourself than you do on your startup</text>
+                </navLabel>
+                <content src="Text/1-1.xml"/>
+            </navPoint><navPoint id="1-10.xml" playOrder="3">
+                <navLabel>
+                    <text>Enjoying the moment</text>
+                </navLabel>
+                <content src="Text/1-10.xml"/>
+            </navPoint><navPoint id="1-11.xml" playOrder="4">
+                <navLabel>
+                    <text>Work and rest in a startup</text>
+                </navLabel>
+                <content src="Text/1-11.xml"/>
+            </navPoint><navPoint id="1-12.xml" playOrder="5">
+                <navLabel>
+                    <text>Healthy naivety</text>
+                </navLabel>
+                <content src="Text/1-12.xml"/>
+            </navPoint><navPoint id="1-13.xml" playOrder="6">
+                <navLabel>
+                    <text>Creating order from chaos in a startup</text>
+                </navLabel>
+                <content src="Text/1-13.xml"/>
+            </navPoint><navPoint id="1-14.xml" playOrder="7">
+                <navLabel>
+                    <text>Questioning and adjusting our goals</text>
+                </navLabel>
+                <content src="Text/1-14.xml"/>
+            </navPoint><navPoint id="1-15.xml" playOrder="8">
+                <navLabel>
+                    <text>Is making mistakes a necessity for success?</text>
+                </navLabel>
+                <content src="Text/1-15.xml"/>
+            </navPoint><navPoint id="1-16.xml" playOrder="9">
+                <navLabel>
+                    <text>Exercise: a requirement for sleep?</text>
+                </navLabel>
+                <content src="Text/1-16.xml"/>
+            </navPoint><navPoint id="1-17.xml" playOrder="10">
+                <navLabel>
+                    <text>Why I crave mistakes</text>
+                </navLabel>
+                <content src="Text/1-17.xml"/>
+            </navPoint><navPoint id="1-18.xml" playOrder="11">
+                <navLabel>
+                    <text>Are you interested?</text>
+                </navLabel>
+                <content src="Text/1-18.xml"/>
+            </navPoint><navPoint id="1-19.xml" playOrder="12">
+                <navLabel>
+                    <text>Want to be happy and successful? Bring happiness to others</text>
+                </navLabel>
+                <content src="Text/1-19.xml"/>
+            </navPoint><navPoint id="1-2.xml" playOrder="13">
+                <navLabel>
+                    <text>It takes hard work. Do the hard work.</text>
+                </navLabel>
+                <content src="Text/1-2.xml"/>
+            </navPoint><navPoint id="1-20.xml" playOrder="14">
+                <navLabel>
+                    <text>Why I’m helping startup founders</text>
+                </navLabel>
+                <content src="Text/1-20.xml"/>
+            </navPoint><navPoint id="1-21.xml" playOrder="15">
+                <navLabel>
+                    <text>6 things I do to be consistently happy</text>
+                </navLabel>
+                <content src="Text/1-21.xml"/>
+            </navPoint><navPoint id="1-22.xml" playOrder="16">
+                <navLabel>
+                    <text>Why you should continue working on your bad idea</text>
+                </navLabel>
+                <content src="Text/1-22.xml"/>
+            </navPoint><navPoint id="1-23.xml" playOrder="17">
+                <navLabel>
+                    <text>Why context is so important</text>
+                </navLabel>
+                <content src="Text/1-23.xml"/>
+            </navPoint><navPoint id="1-24.xml" playOrder="18">
+                <navLabel>
+                    <text>The power of ignoring mainstream news</text>
+                </navLabel>
+                <content src="Text/1-24.xml"/>
+            </navPoint><navPoint id="1-25.xml" playOrder="19">
+                <navLabel>
+                    <text>How an investor who turned me down ended up sleeping on my couch</text>
+                </navLabel>
+                <content src="Text/1-25.xml"/>
+            </navPoint><navPoint id="1-26.xml" playOrder="20">
+                <navLabel>
+                    <text>5 realisations that helped me write regularly</text>
+                </navLabel>
+                <content src="Text/1-26.xml"/>
+            </navPoint><navPoint id="1-27.xml" playOrder="21">
+                <navLabel>
+                    <text>Maximize your excitement</text>
+                </navLabel>
+                <content src="Text/1-27.xml"/>
+            </navPoint><navPoint id="1-28.xml" playOrder="22">
+                <navLabel>
+                    <text>The magic of a great startup ecosystem</text>
+                </navLabel>
+                <content src="Text/1-28.xml"/>
+            </navPoint><navPoint id="1-29.xml" playOrder="23">
+                <navLabel>
+                    <text>Want to be successful? Be inconsistent</text>
+                </navLabel>
+                <content src="Text/1-29.xml"/>
+            </navPoint><navPoint id="1-3.xml" playOrder="24">
+                <navLabel>
+                    <text>10 lessons from my startup journey so far</text>
+                </navLabel>
+                <content src="Text/1-3.xml"/>
+            </navPoint><navPoint id="1-30.xml" playOrder="25">
+                <navLabel>
+                    <text>Thoughts on dropping out to do a startup</text>
+                </navLabel>
+                <content src="Text/1-30.xml"/>
+            </navPoint><navPoint id="1-31.xml" playOrder="26">
+                <navLabel>
+                    <text>The Anti-Todo List</text>
+                </navLabel>
+                <content src="Text/1-31.xml"/>
+            </navPoint><navPoint id="1-32.xml" playOrder="27">
+                <navLabel>
+                    <text>Want to create a new habit? Get ready to break it.</text>
+                </navLabel>
+                <content src="Text/1-32.xml"/>
+            </navPoint><navPoint id="1-33.xml" playOrder="28">
+                <navLabel>
+                    <text>The highs and lows of startup life</text>
+                </navLabel>
+                <content src="Text/1-33.xml"/>
+            </navPoint><navPoint id="1-34.xml" playOrder="29">
+                <navLabel>
+                    <text>Two important and often overlooked aspects of creating a lasting morning routine</text>
+                </navLabel>
+                <content src="Text/1-34.xml"/>
+            </navPoint><navPoint id="1-35.xml" playOrder="30">
+                <navLabel>
+                    <text>Focus on the line, not the dot</text>
+                </navLabel>
+                <content src="Text/1-35.xml"/>
+            </navPoint><navPoint id="1-36.xml" playOrder="31">
+                <navLabel>
+                    <text>Zero notifications</text>
+                </navLabel>
+                <content src="Text/1-36.xml"/>
+            </navPoint><navPoint id="1-37.xml" playOrder="32">
+                <navLabel>
+                    <text>What is failure for you?</text>
+                </navLabel>
+                <content src="Text/1-37.xml"/>
+            </navPoint><navPoint id="1-38.xml" playOrder="33">
+                <navLabel>
+                    <text>5 reasons as a CEO you should develop a habit of daily meditation</text>
+                </navLabel>
+                <content src="Text/1-38.xml"/>
+            </navPoint><navPoint id="1-39.xml" playOrder="34">
+                <navLabel>
+                    <text>The evening walk</text>
+                </navLabel>
+                <content src="Text/1-39.xml"/>
+            </navPoint><navPoint id="1-4.xml" playOrder="35">
+                <navLabel>
+                    <text>Taking time to reflect</text>
+                </navLabel>
+                <content src="Text/1-4.xml"/>
+            </navPoint><navPoint id="1-40.xml" playOrder="36">
+                <navLabel>
+                    <text>Expert of nothing</text>
+                </navLabel>
+                <content src="Text/1-40.xml"/>
+            </navPoint><navPoint id="1-41.xml" playOrder="37">
+                <navLabel>
+                    <text>Make progress faster by cooperating: 4 tips to try with your co-founder or co-worker</text>
+                </navLabel>
+                <content src="Text/1-41.xml"/>
+            </navPoint><navPoint id="1-42.xml" playOrder="38">
+                <navLabel>
+                    <text>The third option</text>
+                </navLabel>
+                <content src="Text/1-42.xml"/>
+            </navPoint><navPoint id="1-43.xml" playOrder="39">
+                <navLabel>
+                    <text>When creating new habits, let yourself be sloppy</text>
+                </navLabel>
+                <content src="Text/1-43.xml"/>
+            </navPoint><navPoint id="1-44.xml" playOrder="40">
+                <navLabel>
+                    <text>Why I’m going to Hawaii with my co-founder</text>
+                </navLabel>
+                <content src="Text/1-44.xml"/>
+            </navPoint><navPoint id="1-45.xml" playOrder="41">
+                <navLabel>
+                    <text>Want to help your hometown? Pack up and leave</text>
+                </navLabel>
+                <content src="Text/1-45.xml"/>
+            </navPoint><navPoint id="1-46.xml" playOrder="42">
+                <navLabel>
+                    <text>Dreams come true</text>
+                </navLabel>
+                <content src="Text/1-46.xml"/>
+            </navPoint><navPoint id="1-47.xml" playOrder="43">
+                <navLabel>
+                    <text>Ratio thinking</text>
+                </navLabel>
+                <content src="Text/1-47.xml"/>
+            </navPoint><navPoint id="1-48.xml" playOrder="44">
+                <navLabel>
+                    <text>Experimenting with a 7 day work week</text>
+                </navLabel>
+                <content src="Text/1-48.xml"/>
+            </navPoint><navPoint id="1-49.xml" playOrder="45">
+                <navLabel>
+                    <text>Two simple changes that helped increase my happiness and improve my sleep</text>
+                </navLabel>
+                <content src="Text/1-49.xml"/>
+            </navPoint><navPoint id="1-5.xml" playOrder="46">
+                <navLabel>
+                    <text>Like anything else, we need to practice startups</text>
+                </navLabel>
+                <content src="Text/1-5.xml"/>
+            </navPoint><navPoint id="1-6.xml" playOrder="47">
+                <navLabel>
+                    <text>Founders: failure comes with the territory</text>
+                </navLabel>
+                <content src="Text/1-6.xml"/>
+            </navPoint><navPoint id="1-7.xml" playOrder="48">
+                <navLabel>
+                    <text>I have no idea what I am doing</text>
+                </navLabel>
+                <content src="Text/1-7.xml"/>
+            </navPoint><navPoint id="1-8.xml" playOrder="49">
+                <navLabel>
+                    <text>What are you doing to feel uncomfortable?</text>
+                </navLabel>
+                <content src="Text/1-8.xml"/>
+            </navPoint><navPoint id="1-9.xml" playOrder="50">
+                <navLabel>
+                    <text>Creating a sleep ritual</text>
+                </navLabel>
+                <content src="Text/1-9.xml"/>
+            </navPoint><navPoint id="2-0.xml" playOrder="51">
+                <navLabel>
+                    <text>Avoid the 50/50 co-founder model - here’s why</text>
+                </navLabel>
+                <content src="Text/2-0.xml"/>
+            </navPoint><navPoint id="2-1.xml" playOrder="52">
+                <navLabel>
+                    <text>For the first few people, hire from your network</text>
+                </navLabel>
+                <content src="Text/2-1.xml"/>
+            </navPoint><navPoint id="2-10.xml" playOrder="53">
+                <navLabel>
+                    <text>What no one talks about when building a team: letting people go</text>
+                </navLabel>
+                <content src="Text/2-10.xml"/>
+            </navPoint><navPoint id="2-11.xml" playOrder="54">
+                <navLabel>
+                    <text>How we handle team emails at our startup: Defaulting to transparency</text>
+                </navLabel>
+                <content src="Text/2-11.xml"/>
+            </navPoint><navPoint id="2-12.xml" playOrder="55">
+                <navLabel>
+                    <text>Firing myself, again</text>
+                </navLabel>
+                <content src="Text/2-12.xml"/>
+            </navPoint><navPoint id="2-13.xml" playOrder="56">
+                <navLabel>
+                    <text>What it’s really like to grow a team when you’re focused on culture-fit</text>
+                </navLabel>
+                <content src="Text/2-13.xml"/>
+            </navPoint><navPoint id="2-14.xml" playOrder="57">
+                <navLabel>
+                    <text>Why we go on international retreats 3 times a year with our startup</text>
+                </navLabel>
+                <content src="Text/2-14.xml"/>
+            </navPoint><navPoint id="2-2.xml" playOrder="58">
+                <navLabel>
+                    <text>Your startup is a rocket ship</text>
+                </navLabel>
+                <content src="Text/2-2.xml"/>
+            </navPoint><navPoint id="2-3.xml" playOrder="59">
+                <navLabel>
+                    <text>Thoughts on travelling with your startup</text>
+                </navLabel>
+                <content src="Text/2-3.xml"/>
+            </navPoint><navPoint id="2-4.xml" playOrder="60">
+                <navLabel>
+                    <text>An invitation to come and hack on Buffer</text>
+                </navLabel>
+                <content src="Text/2-4.xml"/>
+            </navPoint><navPoint id="2-5.xml" playOrder="61">
+                <navLabel>
+                    <text>The maker/manager transition phase</text>
+                </navLabel>
+                <content src="Text/2-5.xml"/>
+            </navPoint><navPoint id="2-6.xml" playOrder="62">
+                <navLabel>
+                    <text>The evolution of culture at a startup</text>
+                </navLabel>
+                <content src="Text/2-6.xml"/>
+            </navPoint><navPoint id="2-7.xml" playOrder="63">
+                <navLabel>
+                    <text>Questions I ask myself about working as distributed team</text>
+                </navLabel>
+                <content src="Text/2-7.xml"/>
+            </navPoint><navPoint id="2-8.xml" playOrder="64">
+                <navLabel>
+                    <text>Coaching and feedback within startups</text>
+                </navLabel>
+                <content src="Text/2-8.xml"/>
+            </navPoint><navPoint id="2-9.xml" playOrder="65">
+                <navLabel>
+                    <text>The joys and benefits of working as a distributed team</text>
+                </navLabel>
+                <content src="Text/2-9.xml"/>
+            </navPoint><navPoint id="3-0.xml" playOrder="66">
+                <navLabel>
+                    <text>Achieving overnight success: Kevin Systrom</text>
+                </navLabel>
+                <content src="Text/3-0.xml"/>
+            </navPoint><navPoint id="3-1.xml" playOrder="67">
+                <navLabel>
+                    <text>Achieving overnight success: Tom Preston-Werner</text>
+                </navLabel>
+                <content src="Text/3-1.xml"/>
+            </navPoint><navPoint id="4-0.xml" playOrder="68">
+                <navLabel>
+                    <text>Giving your startup a point of view</text>
+                </navLabel>
+                <content src="Text/4-0.xml"/>
+            </navPoint><navPoint id="4-1.xml" playOrder="69">
+                <navLabel>
+                    <text>Why you should start marketing early</text>
+                </navLabel>
+                <content src="Text/4-1.xml"/>
+            </navPoint><navPoint id="5-0.xml" playOrder="70">
+                <navLabel>
+                    <text>Don’t register your idea as a company</text>
+                </navLabel>
+                <content src="Text/5-0.xml"/>
+            </navPoint><navPoint id="5-1.xml" playOrder="71">
+                <navLabel>
+                    <text>What is your coming soon page for?</text>
+                </navLabel>
+                <content src="Text/5-1.xml"/>
+            </navPoint><navPoint id="5-10.xml" playOrder="72">
+                <navLabel>
+                    <text>Making money with a product: a myth?</text>
+                </navLabel>
+                <content src="Text/5-10.xml"/>
+            </navPoint><navPoint id="5-11.xml" playOrder="73">
+                <navLabel>
+                    <text>How coffee shops helped my startup</text>
+                </navLabel>
+                <content src="Text/5-11.xml"/>
+            </navPoint><navPoint id="5-12.xml" playOrder="74">
+                <navLabel>
+                    <text>How to name your startup</text>
+                </navLabel>
+                <content src="Text/5-12.xml"/>
+            </navPoint><navPoint id="5-13.xml" playOrder="75">
+                <navLabel>
+                    <text>Pricing your product: it doesn’t have to be so complicated</text>
+                </navLabel>
+                <content src="Text/5-13.xml"/>
+            </navPoint><navPoint id="5-14.xml" playOrder="76">
+                <navLabel>
+                    <text>Thoughts on when to incorporate</text>
+                </navLabel>
+                <content src="Text/5-14.xml"/>
+            </navPoint><navPoint id="5-15.xml" playOrder="77">
+                <navLabel>
+                    <text>Start something small</text>
+                </navLabel>
+                <content src="Text/5-15.xml"/>
+            </navPoint><navPoint id="5-16.xml" playOrder="78">
+                <navLabel>
+                    <text>What are your top 3 challenges?</text>
+                </navLabel>
+                <content src="Text/5-16.xml"/>
+            </navPoint><navPoint id="5-17.xml" playOrder="79">
+                <navLabel>
+                    <text>Feeling like a fraud while doing startups</text>
+                </navLabel>
+                <content src="Text/5-17.xml"/>
+            </navPoint><navPoint id="5-18.xml" playOrder="80">
+                <navLabel>
+                    <text>Thinking about your goal with a startup</text>
+                </navLabel>
+                <content src="Text/5-18.xml"/>
+            </navPoint><navPoint id="5-19.xml" playOrder="81">
+                <navLabel>
+                    <text>How to get more replies to the emails you send: be specific</text>
+                </navLabel>
+                <content src="Text/5-19.xml"/>
+            </navPoint><navPoint id="5-2.xml" playOrder="82">
+                <navLabel>
+                    <text>Achieving scale by doing things that don’t scale</text>
+                </navLabel>
+                <content src="Text/5-2.xml"/>
+            </navPoint><navPoint id="5-20.xml" playOrder="83">
+                <navLabel>
+                    <text>5 things that seem essential that we launched Buffer without</text>
+                </navLabel>
+                <content src="Text/5-20.xml"/>
+            </navPoint><navPoint id="5-21.xml" playOrder="84">
+                <navLabel>
+                    <text>The undervalued advantages of being a small startup</text>
+                </navLabel>
+                <content src="Text/5-21.xml"/>
+            </navPoint><navPoint id="5-22.xml" playOrder="85">
+                <navLabel>
+                    <text>6 suggestions for an aspiring founder</text>
+                </navLabel>
+                <content src="Text/5-22.xml"/>
+            </navPoint><navPoint id="5-23.xml" playOrder="86">
+                <navLabel>
+                    <text>4 short stories of our attempts to be lean at our startup</text>
+                </navLabel>
+                <content src="Text/5-23.xml"/>
+            </navPoint><navPoint id="5-3.xml" playOrder="87">
+                <navLabel>
+                    <text>Does location really matter for your startup?</text>
+                </navLabel>
+                <content src="Text/5-3.xml"/>
+            </navPoint><navPoint id="5-4.xml" playOrder="88">
+                <navLabel>
+                    <text>Reflecting on ways to bootstrap a startup</text>
+                </navLabel>
+                <content src="Text/5-4.xml"/>
+            </navPoint><navPoint id="5-5.xml" playOrder="89">
+                <navLabel>
+                    <text>Beware of the social ideas</text>
+                </navLabel>
+                <content src="Text/5-5.xml"/>
+            </navPoint><navPoint id="5-6.xml" playOrder="90">
+                <navLabel>
+                    <text>How to start your startup in 4 steps</text>
+                </navLabel>
+                <content src="Text/5-6.xml"/>
+            </navPoint><navPoint id="5-7.xml" playOrder="91">
+                <navLabel>
+                    <text>Steady yourself, those world-changing thoughts are not productive</text>
+                </navLabel>
+                <content src="Text/5-7.xml"/>
+            </navPoint><navPoint id="5-8.xml" playOrder="92">
+                <navLabel>
+                    <text>Ways to bootstrap a startup: on the side</text>
+                </navLabel>
+                <content src="Text/5-8.xml"/>
+            </navPoint><navPoint id="5-9.xml" playOrder="93">
+                <navLabel>
+                    <text>Ways to bootstrap a startup: “working in waves”</text>
+                </navLabel>
+                <content src="Text/5-9.xml"/>
+            </navPoint><navPoint id="6-0.xml" playOrder="94">
+                <navLabel>
+                    <text>Treat it as finished</text>
+                </navLabel>
+                <content src="Text/6-0.xml"/>
+            </navPoint><navPoint id="6-1.xml" playOrder="95">
+                <navLabel>
+                    <text>Acting with incomplete information in a startup</text>
+                </navLabel>
+                <content src="Text/6-1.xml"/>
+            </navPoint><navPoint id="6-2.xml" playOrder="96">
+                <navLabel>
+                    <text>Fear of not shipping</text>
+                </navLabel>
+                <content src="Text/6-2.xml"/>
+            </navPoint><navPoint id="6-3.xml" playOrder="97">
+                <navLabel>
+                    <text>What can we do right now?</text>
+                </navLabel>
+                <content src="Text/6-3.xml"/>
+            </navPoint><navPoint id="6-4.xml" playOrder="98">
+                <navLabel>
+                    <text>Use the happiness advantage</text>
+                </navLabel>
+                <content src="Text/6-4.xml"/>
+            </navPoint><navPoint id="6-5.xml" playOrder="99">
+                <navLabel>
+                    <text>Plan or build?</text>
+                </navLabel>
+                <content src="Text/6-5.xml"/>
+            </navPoint><navPoint id="6-6.xml" playOrder="100">
+                <navLabel>
+                    <text>How to gain traction in two sided markets</text>
+                </navLabel>
+                <content src="Text/6-6.xml"/>
+            </navPoint><navPoint id="6-7.xml" playOrder="101">
+                <navLabel>
+                    <text>The paradox of how bugs and downtime can be a good thing</text>
+                </navLabel>
+                <content src="Text/6-7.xml"/>
+            </navPoint><navPoint id="7-0.xml" playOrder="102">
+                <navLabel>
+                    <text>Raising funding as a first-time founder</text>
+                </navLabel>
+                <content src="Text/7-0.xml"/>
+            </navPoint>
+    
+    </navMap>
+</ncx>

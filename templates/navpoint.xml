@@ -1,0 +1,6 @@
+<navPoint id="{{ file }}" playOrder="{{ order }}">
+                <navLabel>
+                    <text>{{ section }}</text>
+                </navLabel>
+                <content src="Text/{{ file }}"/>
+            </navPoint>
