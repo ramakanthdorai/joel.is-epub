@@ -1,1 +1,1 @@
-Run 'python book.py' to generate the epub
+Run book.py to generate the epub
